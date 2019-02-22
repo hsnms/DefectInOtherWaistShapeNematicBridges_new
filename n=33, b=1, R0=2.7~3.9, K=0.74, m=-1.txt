@@ -1,0 +1,28 @@
+Number of lattices vertically n=33
+Number of the lattice spaces the length of the core occupies b=1
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.700000, ring radius=68, total energy=8.795987
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.700000, ring radius=68, total energy=8.795987
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.800000, ring radius=72, total energy=9.019345
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.800000, ring radius=72, total energy=9.019345
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.900000, ring radius=76, total energy=9.263326
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=2.900000, ring radius=76, total energy=9.263326
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.000000, ring radius=79, total energy=10.099515
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.000000, ring radius=79, total energy=10.099515
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.100000, ring radius=83, total energy=10.423009
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.100000, ring radius=83, total energy=10.423009
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.200000, ring radius=87, total energy=10.628603
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.200000, ring radius=87, total energy=10.628603
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.300000, ring radius=90, total energy=10.818399
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.300000, ring radius=90, total energy=10.818399
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.400000, ring radius=93, total energy=11.043324
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.400000, ring radius=93, total energy=11.043324
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.500000, ring radius=97, total energy=11.955769
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.500000, ring radius=97, total energy=11.955769
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.600000, ring radius=100, total energy=12.268527
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.600000, ring radius=100, total energy=12.268527
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.700000, ring radius=104, total energy=12.443179
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.700000, ring radius=104, total energy=12.443179
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.800000, ring radius=107, total energy=12.602832
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.800000, ring radius=107, total energy=12.602832
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.900000, ring radius=110, total energy=12.810802
+Defect type m=-1.000000, Frank constant ratio K=0.740000, aspect ratio R0=3.900000, ring radius=110, total energy=12.810802
